@@ -1,3 +1,0 @@
-Average of Numbers in the File is: 21 
-Maximum value of the numbers in the list is 98 
-Minimum Value of the Numbers in the list is -17 
